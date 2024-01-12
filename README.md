@@ -1,5 +1,5 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5616AQGkEuc8ql8YPA/profile-displaybackgroundimage-shrink_350_1400/0/1705062832253?e=1710374400&v=beta&t=B_YVeFz2SK-v3vjHTUkbMd2ke2D2pNNWgUHPOYkQ3Nc)](https://www.linkedin.com/in/amritansh-sharma-574041244/)
-<h1 align="center">Hi 👋, I'm Amritansh Sharma</h1>
+<h1 align="center">I am Amritansh Sharma</h1>
 <h3 align="center">Empowering Cybersecurity Excellence and Web Development Mastery: Leading the Charge Toward a Secure Digital Future</h3>
 
 - 🌱 I’m currently learning **MERN stack**
